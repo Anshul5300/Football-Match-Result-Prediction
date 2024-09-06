@@ -1,5 +1,5 @@
-# ALDA-Fall2-2023-P07
-This is Project Group number 07 for CSC 522: ALDA
+# Football Match Result Prediction
+This project include models which predicts match results of football match based on the data of previous matches. We have used 4 different Machine learning models in this project, each having different accuracies and advantages.
 
 ## File Structure
 ├───data<br>
